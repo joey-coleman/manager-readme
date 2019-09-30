@@ -1,5 +1,7 @@
 # Manager README
 
+_Note: the canonical version of this document is published at <https://github.com/joey-coleman/manager-readme/blob/master/README.md>._
+
 Hi!  I'm Joey Coleman, and this document is about me, how I work, how I hope others will work, and how I hope to interact with people.  I work at [Kira Systems](https://kirasystems.com/) as a "Kira Fellow" — I don't presently have a team, as such, but I am the line manager for a few people.  Previously at Kira Systems I was "Director, Systems", and I built the Systems Team up from myself and one other to a team of about a dozen people (then I handed it off).  The commentary about engineering versus management tracks at [Engineering Management: the Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) resonates with me — I've now done more than the minimum two years on the management-focussed side, and I'm now focussing on tech and tech strategy.
 
 This is the second draft, updated June 2019.
